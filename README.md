@@ -1,5 +1,5 @@
 # Interactive Story for Android
-Play as an intergallactic traveler and explore the galaxy in a choose-your-own-adventure for mobile. 
+Play as an intergallactic traveler and explore the galaxy in a choose-your-own-adventure for mobile titled "Signals from Mars" 
 
 # Features: 
 - MVC design: 
